@@ -1,0 +1,481 @@
+nama : 🇲🇾 Melayu
+
+# Rentetan Umum
+general_1 : "Balas kepada mesej pengguna atau berikan nama pengguna/ id_pengguna "
+general_2 : "Ralat! Penggunaan Perintah Salah."
+general_3 : "Beberapa **pengecualian berlaku** semasa memproses pertanyaan anda .\n\ nJenis Pengecualian :- {0}"
+general_4 : "Anda adalah pentadbir tanpa nama bagi kumpulan sembang ini!\ nKembali ke Akaun Pengguna Daripada Hak Pentadbir."
+general_5 : "Anda mesti menjadi pentadbir dengan mengurus hak sembang suara untuk melakukan tindakan ini."
+general_6 : "Bot tidak menstrim pada suara bersembang ."
+
+# Kelas - Telegram.py
+tg_1 : "Bot **terlebih muatan** dengan muat turun semasa.\n\n**Cuba Selepas:** {0} (__masa yang dijangkakan__)"
+tg_2 : "Gagal memuat turun media daripada telegram."
+
+# Teras - Panggilan. py
+call_1 : "Bot memerlukan **Pentadbir** Kebenaran untuk menjemput akaun pembantu ke saluran anda."
+call_2 : "Pembantu disekat dalam kumpulan atau saluran anda, sila nyahsekat.\n\n**Nama Pengguna Pembantu:** @{0}\n**ID Pembantu:** {1}"
+call_3 : "Pengecualian Berlaku Apabila Menjemput Akaun Pembantu ke sembang anda .\n\n**Sebab**: {0}"
+call_4 : "Bot memerlukan **Jemput Pengguna Melalui Pautan** Kebenaran untuk menjemput akaun pembantu ke sembang kumpulan anda."
+call_5 : "Akaun Pembantu akan menyertai dalam 5 Saat.. Sila Tunggu!"
+call_6 : "Akaun Pembantu[{0}] Berjaya Menyertai.\n\ nMulakan Muzik Sekarang"
+call_7 : "**Hak Pentadbir Berbahaya Diberi **\n\ nSila alih keluar hak **HARAM PENGGUNA** daripada bot."
+call_8 : "**Hak Admin Berbahaya Diberikan **\n\ nSila alih keluar hak **TAMBAH ADMIN BARU** daripada bot."
+call_9 : "**Gagal menukar Strim**\ nSila gunakan /langkau untuk menukar trek sekali lagi."
+call_10 : "Muat turun Lagu Seterusnya daripada Senarai Main"
+call_11 : "Sila tambahkan @{0} pada saluran anda[ ID: {1}].\n\ nBot tidak boleh mendapatkan butiran Saluran."
+
+# PLUGINS - Auth.py
+auth_1 : "Anda hanya boleh mempunyai 20 Pengguna dalam Senarai Pengguna Dibenarkan (AUL) kumpulan anda"
+auth_2 : "Ditambahkan pada Senarai Pengguna Dibenarkan kumpulan anda."
+auth_3 : "Sudah dalam Senarai Pengguna Dibenarkan."
+auth_4 : "Dialih keluar daripada Senarai Pengguna Sah Kumpulan ini."
+auth_5 : "Pengguna yang disasarkan bukan Pengguna Dibenarkan."
+auth_6 : "Mengambil Pengguna Sah... Sila Tunggu"
+auth_7 : "**Senarai Pengguna Dibenarkan[AUL]:**\n\n"
+auth_8 : " ┗ Ditambah Oleh:-"
+
+# PLUGIN - Pentadbir
+admin_1 : "Muzik Dijeda."
+admin_2 : " 🎧 Sembang Suara Dijeda oleh {}!"
+admin_3 : "Muzik telah disambung semula."
+admin_4 : " 🎧 Sembang Suara Disambungkan oleh {}!"
+admin_5 : "Muzik telah diredamkan."
+admin_6 : " 🎧 Sembang Suara Dibisukan oleh {}!"
+admin_7 : "Muzik sudah dinyahredamkan."
+admin_8 : " 🎧 Sembang Suara Disuarakan oleh {}!"
+admin_9 : " 🎧 Sembang Suara Tamat/Ditamatkan oleh {}!"
+admin_10 : " 🎧 Sembang Suara Dilangkau oleh {}!. Tiada Lagi Muzik dalam Baris Gilir."
+admin_11 : " Ralat menukar strim kepada **{0}**\n\ nSila gunakan /langkau lagi."
+admin_12 : "Tidak dapat melangkau ke trek tertentu kerana mainan gelung didayakan. Sila lumpuhkan mainan gelung melalui `/ gelung lumpuhkan ` untuk menggunakan ciri ini."
+admin_13 : "Sila gunakan nombor berangka untuk trek tertentu, seperti 1, 2 atau 4 dll "
+admin_14 : "Ia memerlukan sekurang-kurangnya 2 trek dalam baris gilir untuk melompat ke nombor tertentu. Semak baris gilir mengikut / gilir "
+admin_15 : "Tidak cukup trek dalam baris gilir untuk nilai yang anda berikan. Sila pilih nombor antara 1 dan {0}"
+admin_16 : "Gagal melompat ke trek tertentu.\n\ nSemak baris gilir kiri mengikut / gilir "
+admin_17 : "{0}.. Sila tunggu"
+admin_18 : "Senarai Pentadbir Tidak Ditemui\n\ nSila muat semula senarai pentadbir melalui / admincache atau / muat semula "
+admin_19 : "Anda mesti menjadi pentadbir dengan hak mengurus sembang suara untuk melakukan ini. \ nJika anda sudah menjadi pentadbir, muat semula admincache melalui / admincache "
+admin_20 : " Cache pentadbir telah berjaya dimuatkan semula."
+admin_21 : "Tidak dalam baris gilir untuk mengocok"
+admin_22 : "Berebut gagal.\n\ nSemak beratur : / beratur "
+admin_23 : "** Baris Gilir Dirawakkan oleh {0}**\n\ nSemak baris gilir rawak : / gilir "
+admin_24 : "**Penggunaan:**\n/ gelung [dayakan/lumpuhkan] atau [Nombor antara 1-10]\n\n**Contoh:** / gelung 5"
+admin_25 : " Gelung telah diaktifkan sebanyak {0} **{1}** kali. Bot kini akan menggelungkan muzik yang sedang dimainkan dalam sembang suara **{1}** kali"
+admin_26 : " Sila gunakan nombor antara 1-10 untuk gelung main "
+admin_27 : "Loop Replay telah dilumpuhkan"
+admin_28 : "**Penggunaan:**\n/ cari atau / cari balik [Tempoh dalam saat]"
+admin_29 : "Sila gunakan detik tempoh angka seperti 10-20-30 saat untuk mencari"
+admin_30 : "Maaf, tetapi anda tidak boleh mencari strim yang sedang dimainkan. Ia hanya boleh dilangkau atau dihentikan."
+admin_31 : "Bot tidak boleh mencari kerana tempoh yang diberikan adalah tinggi. Anda perlu mencari ke tempoh yang lebih rendah dan ingat bahawa terdapat 10 saat lagi selepas carian.\n\ nSedang bermain** {0}** minit keluar ** { 1 minit"
+admin_32 : "Sila Tunggu... Mencari strim sedang berjalan."
+admin_33 : "Strim Dicari Berjaya sehingga {0} Minit"
+admin_34 : "Gagal mencari strim semasa."
+
+# Bot
+
+#Mula
+start_1 : "Terima kasih kerana menghubungi saya di {0}.\n{1} Saya Masih Bekerja.\n\ nUntuk sebarang bantuan atau bantuan, lihat Kumpulan Sokongan dan Saluran kami ."
+start_2 : "Hello 👋 , Nama saya {0}.\n\ nKlik butang di bawah untuk mendapatkan maklumat lanjut. Jika anda menghadapi sebarang masalah, anda boleh menghubungi pemilik bot atau bertanya dalam kumpulan Sokongan.\n\ nDapatkan bantuan daripada Kumpulan Pengurus 👨  🔧 ."
+start_3 : "Selamat datang ke {0}\n\ nSaya tidak memerlukan **kebenaran pentadbir** untuk bekerja (sehingga diminta).\n\ nNama Pengguna Pembantu:- @{1}\ nID Pembantu :- {2} "
+start_4 : "Pemilik {0}[{1}] baru sahaja menyertai sembang anda."
+start_5 : "Pengguna Ahli sudo {0} - {1} baru sahaja menyertai sembang anda."
+start_6 : " ❗ ️ ** Supergroup Diperlukan ** ️\n\ nSila tukar **kumpulan** anda kepada **supergroup** kemudian tambahkan saya kembali.\n\n**Bagaimanakah cara saya membuat supergroup?* *\ n ✅ Jadikan sejarah sembang kumpulan anda **kelihatan** sekali."
+start_7 : "**Sembang Disenarai Hitam**\n\ nSembang anda telah disenaraihitamkan oleh Bot. Sila minta SudoUser menyenarai putih sembang dahulu. Semak [ Sudolist dari sini]({0})"
+
+#Bantuan _
+help_1 : "Hello 👋 , Nama saya {0}.\n\ nKlik butang di bawah untuk mendapatkan maklumat lanjut. Jika anda menghadapi sebarang masalah, anda boleh menghubungi pemilik bot atau bertanya dalam kumpulan Sokongan.\n\ nDapatkan bantuan Pengurus Kumpulan 👨  🔧 ."
+help_2 : "Hubungi saya dalam PM untuk mendapatkan bantuan."
+
+#Tetapan _
+setting_1 : " ⚙ ️ **Tetapan Bot Muzik**\n\n 🖇 **Kumpulan:** {0}\n 🔖 **ID Kumpulan:** `{1}`\n\n 💡 **Pilih butang fungsi dari bawah yang anda mahu edit atau ubah.**"
+setting_3 : " ⁉ ️ Apakah Ini?\n\n1) Langsung: Memainkan pertanyaan carian secara langsung. Gunakan -v untuk memainkan video dalam mod langsung.\n\n2) Sebaris: Mengembalikan Butang Penanda Sebaris untuk menogol antara video & audio."
+setting_4 : " ⁉ ️ Apa Ini?\n\n 👥 Semua orang: Sesiapa sahaja boleh menggunakan arahan pentadbir (langkau, jeda, teruskan, dll.) dalam kumpulan ini.\n\n 🙍 Pentadbir Sahaja: Hanya pentadbir dan pengguna yang diberi kuasa yang boleh gunakan arahan pentadbir."
+setting_5 : "Tiada Pengguna Dibenarkan Ditemui\n\ nAnda boleh membenarkan bukan pentadbir menggunakan arahan pentadbir saya dengan / auth dan padam menggunakan / unauth "
+setting_9 : " ⁉ ️ Apakah Ini?\n\ nApabila didayakan, Bot akan memadamkan mesejnya selepas {0} untuk menjadikan sembang anda bersih dan jelas."
+setting_10 : " ⁉ ️ Apa Ini?\n\n1) Kumpulan: Mainkan muzik dalam kumpulan yang arahan diberikan .\n\n2) Saluran: Mainkan muzik dalam saluran yang anda mahu. Tetapkan id saluran melalui / channelplay "
+setting_11 : " ⁉ ️ Apa Ini?\n\n1) Semua orang: Sesiapa sahaja yang hadir dalam kumpulan ini boleh memainkan muzik di sini.\n\n2) Hanya Pentadbir: Hanya pentadbir boleh memainkan muzik dalam kumpulan ini."
+setting_12 : " ❌ Anda tidak mempunyai id saluran yang ditentukan untuk mod saluran. Sila nyatakan dengan / channelplay ."
+setting_13 : "Tidak boleh menukar mod main dalam panggilan kumpulan aktif . Sila hentikan sembang suara dahulu dengan /stop."
+setting_14 : " ⁉ ️ What's This?\n\ nApabila didayakan, Bot akan segera memadamkan arahan yang dilaksanakannya (/ play , /pause, / shuffle , /stop etc ).\n\ nBot memerlukan keistimewaan padam mesej pentadbir untuk ini untuk bekerja dengan Betul."
+setting_15 : "Gagal melengkapkan rakan sebaya , Pastikan anda telah menambahkan bot dalam saluran anda dan mempromosikannya sebagai pentadbir.\n\ nCuba tetapkan / main saluran sekali lagi.."
+setting_16 : " ⁉ ️ Apa Ini?\n\ nApabila didayakan, Bot akan mencadangkan sembang anda setiap 1-2 jam tentang arahan bot (Cara menggunakannya, apakah arahan dan banyak perkara lain) secara rawak."
+
+
+set_cb_1 : "Mendapatkan Panel Kualiti Audio..."
+set_cb_2 : "Mendapatkan Panel Kualiti Video..."
+set_cb_3 : "Mendapatkan Panel Pengguna Pengesahan ..."
+set_cb_4 : "Mendapatkan Panel Mod Main..."
+set_cb_5 : "Mendapatkan Panel Mod Bersih..."
+set_cb_6 : "Menyediakan perubahan."
+set_cb_7 : "Mendapatkan Senarai Pengguna Pengesahan .. SILA TUNGGU."
+set_cb_8 : "Kembali.."
+
+#Pelbagai _
+usts_1 : "Tiada Statistik Pengguna Ditemui."
+ustads_2 : "Salam!, anda telah memainkan **{0}** trek sehingga sekarang dengan kiraan kekalahan sebanyak **{1}** kali.\n\n{2} teratas dimainkan oleh anda:\n\n"
+
+gstats_1 : "Mendapatkan Statistik Global, Ini boleh mengambil sedikit masa..."
+gstats_2 : "Statistik Tidak Ditemui."
+gstats_3 : "Mendapatkan 10 Teratas Global {0} dalam bot, Ini boleh mengambil sedikit masa.."
+gstats_4 : "**Jumlah Pertanyaan di Bot:** {0}\n\n{1} dimainkan **{2}** trek sehingga sekarang **{3}** kali.\n \n* *Atas {4} Lagu:**\n"
+gstats_5 : "**Sembang {0} Teratas {1}:**\n\n"
+gstats_6 : "**Pengguna {0} Teratas {1}:**\n\n"
+gstats_7 : "Kumpulan sembang ini telah memainkan **{0}** trek setakat ini **{1}** kali.\n\n{2} permainan teratas oleh kumpulan sembang ini:\n\n"
+gstats_8 : "Mendapatkan statistik Bot dan maklumat am.. Ini mungkin mengambil sedikit masa..."
+gstats_9 : "**10 STATIS TOP GLOBAL BOT**\n\ nPilih butang dari bawah yang mana anda ingin menyemak statistik global daripada pelayan bot."
+gstats_10 : "**Statistik Global {0}**\n\ nPilih butang dari bawah yang anda ingin semak statistik global daripada pelayan bot."
+gstats_11 : "**Statistik Am {0}**\ nPilih butang dari bawah yang anda mahu semak statistik global daripada pelayan bot.\n\ nUntuk menyemak trek teratas, sembang, pengguna dan bahan lain, gunakan / gstats "
+
+
+#Main _ 
+
+#Main _ Panggilan balik 
+main cb1 : "Ini bukan untuk awak! Cari Lagu Anda Sendiri."
+main cb2 : "Mendapatkan Keputusan Seterusnya"
+
+#Saluran Main
+cplay_1 : "Anda boleh memainkan muzik di Saluran daripada sembang ini[{0}] ke mana-mana saluran atau Saluran sembang anda dipautkan .\n\n**Untuk saluran terpaut :**\n`/{1} dipautkan `\n\n* *Untuk Saluran lain:**\n`/{1} [ID Saluran]`"
+cplay_2 : "Sembang ini tidak mempunyai saluran dipautkan ."
+cplay_3 : "Saluran Ditugaskan kepada {0}\n\ n__ID Saluran__ : {1}"
+cplay_4 : "Gagal mendapatkan saluran .\n\ nPastikan anda telah menambah bot dalam saluran anda dan mempromosikannya sebagai pentadbir.\ nEdit atau Tukar saluran melalui / channelplay "
+cplay_5 : "Saluran sahaja disokong."
+cplay_6 : "Anda mestilah **Pemilik** saluran [{0}] untuk memautkannya dengan kumpulan ini.\n**Pemilik Saluran:** @{1}\n\ nSebagai alternatif , anda boleh memautkan kumpulan anda ke saluran itu dan cuba berhubung dengan `/ channelplay dipautkan `"
+
+#Main _
+play_1 : " 🔄 Memproses permintaan anda ... Sila Tunggu!"
+play_2 : "** 🏷 Mod Main Saluran**\n\n 🔄 Memproses Pertanyaan ... Sila Tunggu!\n** Saluran Terpaut :** {0}"
+play_3 : "Gagal memproses permintaan anda !"
+play_4 : " 🖇 **Admin Only Play **\ nHanya Pentadbir dan Pengguna Pengesahan boleh memainkan muzik dalam kumpulan ini.\n\ nTukar mod melalui / mod main dan jika anda sudah menjadi pentadbir, muat semula admincache melalui / admincache "
+play_5 : "Gagal memproses fail audio .\n\ nSaiz Fail Audio Mesti Kurang daripada 100 mb "
+play_6 : "**Had Tempoh Melebihi**\n\n**Tempoh Dibenarkan: *{0} minit\n**Tempoh Diterima:** {1} jam"
+play_7 : "Maaf! Bot hanya membenarkan bilangan panggilan video yang terhad disebabkan masalah beban CPU. Banyak sembang lain menggunakan panggilan video sekarang. Cuba tukar kepada audio atau cuba lagi kemudian"
+play_8 : "Bukan Sambungan Fail Video yang Sah !\n\n**Format yang Disokong:** {0}"
+play_9 : " Saiz Fail Video Mesti Kurang Daripada 1 GiB "
+Ciri Senarai Main YouTube **\n\ nPilih Mod yang anda mahu mainkan keseluruhan Senarai Main Youtube"
+play_11 : " 📎 Tajuk: **{0}\n\ n ⏳ Tempoh :** {1} Minit"
+play_12 : "** Mod Main Spotify **\n\ nDiminta Oleh :- {0}"
+play_13 : "**Senarai Main Apple**\n\ nDiminta Oleh :- {0}"
+play_14 : "**Tidak dapat mengesahkan URL.**\ nBot tertanya-tanya sama ada url ini milik salah satu platform berikut: Youtube, AppleMusic , Spotify , Resso dan Soundcloud .\n\ nAnda boleh menggunakan / menstrim untuk M3u8 atau Remote Pautan ."
+play_15 : "** Strim Langsung Dikesan**\n\ nSistem telah mengesan pautan runut anda sebagai strim langsung . Ingin memainkan strim langsung ?"
+play_16 : "Gagal mendapatkan butiran trek. Cuba mainkan yang lain."
+play_17 : "Tidak dapat memainkan jenis pertanyaan spotify ini !\n\ nSaya hanya boleh memainkan lagu, album, artis dan senarai main spotify "
+play_18 : "**Tiada Sembang Suara Aktif Ditemui**\n\ nUntuk menggunakan kekerasan main , mesti ada sembang suara aktif dalam kumpulan anda. ** Paksa Main ** menghentikan trek yang sedang dimainkan dalam sembang suara dan mula memainkan trek menyemak imbas serta-merta tanpa mengganggu/mengosongkan baris gilir."
+
+
+# Senarai main
+playlist_1 : "**Penggunaan:** / mainkan [Nama Muzik atau Pautan Youtube atau Balasan Audio]\n\ nJika anda mahu memainkan Senarai Main Pelayan Bot! Tekan butang di bawah."
+playlist_2 : "Mendapatkan senarai main anda. Sila tunggu"
+playlist_3 : "Anda tidak mempunyai senarai main pada Pelayan Bot."
+playlist_4 : "Senarai Main Diambil:\n\n"
+senarai main_5 : "Tempoh- {0} Minit"
+playlist_6 : "Hubungi saya dalam PM untuk penyingkiran Senarai Main."
+senarai main_7 : " Lagu dalam Senarai main : {0}\n\ nTekan Butang untuk memadam trek tertentu dalam senarai main anda .\n\ nUntuk memadam keseluruhan senarai main : Tekan butang Del Whole Senarai main ."
+playlist_8 : "Sudah wujud\n\ nRunut ini ada dalam senarai main anda."
+playlist_9 : "Maaf! Anda hanya boleh mempunyai {0} muzik dalam senarai main."
+playlist_10 : " Senarai main Penambahan \n\n{0}\ ditambah kepada awak senarai main ."
+playlist_11 : "Berjaya memadamkan lagu anda."
+playlist_12 : "Gagal memadamkan lagu anda."
+playlist_13 : "Memadamkan keseluruhan senarai main anda daripada pelayan."
+playlist_14 : "**Adakah anda pasti mahu memadamkan keseluruhan senarai main?**\n\ nAnda akan kehilangan senarai main dan ia tidak boleh dipulihkan kemudian."
+playlist_15 : "[Semak Keseluruhan Senarai Main]({0})"
+playlist_16 : "Senarai Main Beratur:"
+senarai main_17 : " Kedudukan Baris -"
+senarai main_18 : "[ Checkout Keseluruhan Beratur Senarai main ]({0})\n\ nKedudukan Barisan Terakhir : **{1}**"
+
+# Mod Main
+playmode_1 : "Pilih mod yang anda mahu mainkan pertanyaan dalam kumpulan anda[{0}]."
+playmode_2 : "Tetapan ditukar dan berjaya disimpan oleh {0}"
+
+#Strim _ 
+str_1 : "Sila Berikan Pautan M3u8 atau Pautan Indeks."
+str_2 : " ✅ Strim Sah Disahkan \n\ nSila tunggu untuk memproses pautan.."
+str_3 : "Tidak dapat menstrim strim langsung youtube . Format Langsung Tidak Ditemui"
+
+#TopPlay _
+track_1 : "**Memproses {0} Senarai Main 10 Teratas**\ nIni mungkin mengambil masa beberapa minit (kira-kira 3-4 minit).. Sila Tunggu...\n\n** 👤 Diminta Oleh :** {1 }\ n\ nSemak 10 lagu teratas oleh / gstats "
+track_2 : "** Ralat **\n\ nTiada **{0} Senarai Main 10 Teratas ** pada pelayan bot. Sila cuba senarai main lain "
+
+# ALAT
+
+#Lirik _
+lyrics_1 : "**Penggunaan :**\n\n/ lirik [ Nama Muzik]"
+lyrics_2 : "Mencari Lirik"
+lyrics_3 : " ❌ Gagal mengambil lirik 😞 .\n\n 💡 **Mencuba Mencari:** {0}"
+lyrics_4 : "Klik butang di bawah dan cari lirik untuk mengelakkan carian lirik jenis spam yang panjang."
+
+#ping
+ping_1 : "Pong!!!!"
+ping_2 : "{0} berfungsi dengan baik dengan ping `{1}` md. \n\ nMasa beroperasi bot ialah {2} dan ia telah menggunakan sejumlah {3} storan pelayan. Muatan CPU adalah lebih kurang. {4} dengan penggunaan {5} Ram. Pelanggan Py-Tgcalls juga mempunyai `{6}` ms ping yang bagus ."
+
+
+#Lagu _
+song_1 : "Anda boleh memuat turun Muzik atau Video daripada YouTube hanya dalam sembang peribadi. Sila mulakan saya dalam sembang peribadi."
+song_2 : "**Penggunaan:**\n\n/ lagu [Nama Muzik] atau [ Pautan YouTube ]"
+song_3 : "Pautan Langsung Dikesan . Saya tidak boleh memuat turun video langsung youtube ."
+song_4 : "** 🔗 Tajuk :**- {0}\n\ nPilih jenis yang anda mahu muat turun."
+song_5 : "Bukan Pautan Youtube yang sah"
+song_6 : "Mendapatkan Format..\n\ nSila Tunggu.."
+song_7 : "Gagal mencari format yang tersedia untuk video. Sila cuba trek lain."
+song_8 : "Muat Turun Dimulakan\n\ nKelajuan memuat turun mungkin perlahan. Sila tunggu.."
+song_9 : "Gagal memuat turun lagu dari Youtube-DL\n\n**Sebab :** {0}"
+song_10 : "Gagal memuat naik telegram dari pelayan."
+song_11 : "Muat Naik Dimulakan\n\ nKelajuan muat naik mungkin perlahan. Sila tunggu sebentar.."
+
+#Alat - Beratur _
+queue_1 : "Sila Tunggu..Mengambil Beratur .."
+queue_2 : " Senarai Gilir kosong. Tiada trek ditemui"
+queue_3 : "<u>** Trek Baris :</u>** [Lihat Lagi Trek Baris Dari Sini]({0})"
+queue_4 : " ⏳ Ditambah pada Baris di **#{0}\n\n 💡 Tajuk:** {1}\n ⏰ **Tempoh :** {2}\n 👤 **Ditambah Oleh :** {3 }"
+queue_5 : "Hanya satu trek dalam baris gilir , Sila tambah lagi untuk menyemak senarai "
+
+# Semua Penstriman garisan
+stream_1 : " ⚡ ** Strim Mula ** 💡 \ n\n 👨  💻 **Diminta Oleh :** {0}\n 📌 **Maklumat : **[Di sini]({1})"
+stream_2 : " ⚡ **Mulakan Penstriman melalui URL ** \n\n 👨  💻 **Diminta Oleh :** {0}"
+stream_3 : " ⚡ ** Strim Mula ** 💡 \ n\n** 🏷 Tajuk:** {0}\n ⌛ ️**Tempoh** : {1}\n 👨  💻 **Diminta Oleh :** {2}"
+stream_4 : " ⚡ ** Strim Mula ** \n\n** 🏷 Tajuk:** [{0}]({1})\n ⌛ ️**Tempoh** : {2}\n 👨  💻 * *Diminta Oleh :** {3}"
+
+#Sebaris _ Butang
+
+#Butang Umum
+CLOSE_BUTTON : " 🗑 Tutup"
+CLOSEMENU_BUTTON : " 🗑 Tutup Menu"
+BACK_BUTTON : " ⬅ Kembali"
+UNBAN_BUTTON : " 🗑 Nyahlarang Pembantu"
+
+#Lirik _
+L_B_1 : " 🚀 Lihat Lirik Sekarang"
+
+#Mula
+S_B_1 : " 🗒 Perintah"
+S_B_2 : " 🔧 Tetapan"
+S_B_3 : " 📨 Kumpulan"
+S_B_4 : " 📨 Saluran"
+S_B_5 : " ✚ Tambahkan pada Kumpulan"
+S_B_6 : " 💡 Repositori "
+S_B_7 : " 👨  💻 Kenalan"
+S_B_8 : " 📑 Cara Menggunakan Arahan"
+
+#Bantuan _ 
+H_B_1 : "Perintah Pentadbiran"
+H_B_2 : " Arahan Strim "
+H_B_3 : "Arahan Bot"
+H_B_4 : "Arahan Tambahan"
+H_B_5 : "Tutup Menu"
+H_B_6 : " Perintah Sudo Pengguna "
+
+#PlayMode _
+PM_B_1 : "Main Langsung"
+PM_B_2 : " Penanda Sebaris "
+PM_B_3 : " ChannelPlay "
+
+#Main _
+P_B_1 : " 🎵 Mainkan Audio"
+P_B_2 : " 🎥 Mainkan Video"
+P_B_3 : " 🎙 ️ Mulakan Strim "
+P_B_4 : " 💿 Main Senarai Main "
+
+# Senarai main
+PL_B_1 : " 🚀 Senarai main"
+PL_B_2 : " ✛ Senarai main"
+PL_B_3 : " 🔽 CPanel "
+PL_B_4 : " 📡 Mod Main"
+PL_B_5 : " 🔄 Padam Semua Senarai Main"
+PL_B_6 : "↗️ Padam Senarai Main"
+PL_B_7 : " ❗ ️ Ya, saya pasti"
+PL_B_8 : " 🔢 10 Teratas"
+PL_B_9 : " 🤖 10 Teratas Global"
+PL_B_10 : " 🏘 10 Kumpulan Teratas"
+PL_B_11 : " 👤 10 Teratas Peribadi"
+PL_B_12 : " 🔀 Rawak"
+PL_B_13 : " 🔁 Ulang 3x"
+PL_B_14 : " ⏮ 10 Saat"
+PL_B_15 : " ⏭ 10 Saat"
+PL_B_16 : " ⏭ 30 Saat"
+PL_B_17 : " ⏮ 30 Saat"
+PL_B_18 : " ⚙ Panel"
+PL_B_19 : " 🔇 bisu "
+PL_B_20 : " 🔊 Undi "
+
+#Tetapan _
+ST_B_1 : " 🔊 Bunyi "
+ST_B_2 : " 🎥 Video "
+ST_B_3 : " 🎩 Pengesahan "
+ST_B_4 : " 📱 Papan pemuka "
+ST_B_5 : " ▶ ️ Main"
+ST_B_6 : " 🇮🇩 Bahasa"
+ST_B_7 : " 🔄 Pembersih"
+ST_B_8 : "{0} Audio Berkualiti Rendah"
+ST_B_9 : "{0} Audio Kualiti Sederhana"
+ST_B_10 : "{0} Audio Berkualiti Tinggi"
+ST_B_11 : "{0} Video Kualiti Rendah"
+ST_B_12 : "{0} Video Kualiti Sederhana"
+ST_B_13 : "{0} Video Berkualiti Tinggi"
+ST_B_14 : " ✅ Aktif"
+ST_B_15 : " ❌ Dilumpuhkan"
+ST_B_16 : " 👤 Admin"
+ST_B_17 : " 👥 Semua orang"
+ST_B_18 : " 📋 Daftar Pengesahan "
+ST_B_19 : " 🔎 Carian"
+ST_B_20 : " ✅ Terus"
+ST_B_21 : " ✅ Sebaris "
+ST_B_22 : " 👨  ⚖ ️ Perintah"
+ST_B_23 : " 🏘 Kumpulan"
+ST_B_24 : " 🏷 Saluran"
+ST_B_25 : " 🕹 ️ Pilihan"
+ST_B_26 : " 🗑 Perintah"
+ST_B_27 : " 🧑  🚀 Cadangan "
+
+#Lagu _
+SG_B_1 : "↗️ Buka Sembang Peribadi"
+SG_B_2 : " 🔊 Audio "
+SG_B_3 : " 🎥 Video "
+
+#Stats _
+SA_B_1 : " 📢 10 Sembang Teratas"
+SA_B_2 : " 🔢 10 Lagu Teratas"
+SA_B_3 : " 🧛 10 Pengguna Teratas"
+SA_B_4 : " 🏷 10 Teratas Di Sini "
+SA_B_5 : " 💡 Keseluruhan "
+SA_B_6 : " 👤 Statistik Pengguna "
+SA_B_7 : " 🔢 10 Statistik Teratas Global"
+SA_B_8 : " 🤖 Bot Statistik "
+
+#beratur _
+QU_B_1 : " 💽 Senarai Baris Gilir "
+QU_B_2 : "Dimainkan {0} daripada {1} Minit"
+
+#sudo _ Pengguna [ Jika anda menterjemah ini kepada beberapa lain bahasa .. awak boleh pergi semua ini rentetan dalam bahasa Inggeris bahasa ]
+
+#sudo _
+sudo_1 : "{0} sudah pun menjadi pengguna sudo ."
+sudo_2 : "Menambahkan *{0}** pada Pengguna Sudo ."
+sudo_3 : "Bukan sebahagian daripada Sudo Bot."
+sudo_4 : "Dialih keluar daripada Pengguna Sudo Bot"
+sudo_5 : " 👑 < u>**Pemilik :**</u>\n"
+sudo_6 : "\n 👨  🚀 < u>** Pengguna Sudo :**</u>\n"
+sudo_7 : "Tiada Pengguna Sudo "
+
+#blok _
+block_1 : "{0} telah disekat daripada bot."
+block_2 : "Menambahkan **{0}** pada Senarai Sekat bot. Pengguna tidak akan dapat menggunakan bot sekarang dalam apa jua keadaan.\n\ nSemak pengguna yang disekat: / blockusers "
+block_3 : " Pengguna bebas dan tidak disekat."
+block_4 : "Pengguna dialih keluar daripada senarai sekatan. Pengguna akan dapat menggunakan bot sekarang."
+block_5 : "Tiada Pengguna Disekat Ditemui"
+block_6 : "Mendapatkan Senarai Pengguna yang Disekat.. Sila Tunggu"
+block_7 : "**Pengguna Disekat:**\n\n"
+
+#Senarai hitam _ Sembang
+black_1 : "**Penggunaan:**\n/ blacklistchat [CHAT_ID]"
+black_2 : "Sembang telah disenaraihitamkan."
+black_3 : "Sembang telah berjaya disenaraihitamkan"
+black_4 : "**Penggunaan:**\n/ whitelistchat [CHAT_ID]"
+black_5 : "Sembang sudah disenarai putih."
+black_6 : "Sembang telah berjaya disenarai putih"
+black_7 : "**Sembang Disenarai Hitam:**\n\n"
+black_8 : "Tiada Sembang Disenarai Hitam"
+
+#videolimit _
+vid_1 : "**Penggunaan:**\n/ set_video_limit [Bilangan sembang dibenarkan] atau [Lumpuhkan]"
+vid_2 : "Sila Gunakan Nombor Berangka untuk Menetapkan Had."
+vid_3 : "Had Maksimum Panggilan Video Ditetapkan untuk {0} Sembang."
+vid_4 : "Panggilan Video Dilumpuhkan"
+
+#penyelenggaraan _
+maint_1 : "**Penggunaan:**\n/penyelenggaraan [ enable|disable ]"
+main_2 : "Didayakan untuk Penyelenggaraan"
+maint_3 : "Mod Penyelenggaraan Dilumpuhkan"
+
+#log
+log_1 : "**Penggunaan:**\n/ logger [ enable|disable ]"
+log_2 : " Pembalakan Didayakan"
+log_3 : " Pembalakan Dilumpuhkan"
+
+#videomode _
+vidmode_1 : "**Penggunaan:**\n/ mod video [muat turun|m3u8]"
+vidmode_2 : "Mod Main Video ditetapkan sebagai downloder . Bot akan memuat turun runut sekarang."
+vidmode_3 : "Mod Main Video ditetapkan sebagai m3u8. Bot akan memainkan trek secara langsung sekarang."
+
+#siaran _
+broad_1 : "** Siarkan {0} Sembang dengan {1} Pin daripada Bot.**"
+broad_2 : "Memulakan Siaran Pembantu..."
+broad_3 : "**Penyiaran Penolong:**\n\n"
+broad_4 : "{0} Pembantu Siar dalam {1} sembang\n"
+broad_5 : "**Penggunaan**:\n/siarkan [MESSAGE] atau [Balas Mesej]"
+broad_6 : "Sila sediakan beberapa teks untuk disiarkan."
+broad_7 : "** Siarkan {0} Pengguna.**"
+
+#Wira saya
+heroku_1 : "Pastikan Kunci API Heroku anda , Nama Apl Anda dikonfigurasikan dengan betul dalam heroku"
+heroku_2 : "Anda hanya boleh mendapatkan log daripada Apl Heroku"
+heroku_3 : "**Penggunaan:**\n/ get_var [ Nama Var ]"
+heroku_4 : "Tidak dapat mencari var sedemikian ."
+heroku_5 : ". env fail tidak ditemui."
+heroku_6 : "**Penggunaan:**\n/ del_var [Nama Var ]"
+heroku_7 : "{0} Dipadamkan."
+heroku_8 : "**Penggunaan:**\n/ set_var [ Var Nama ] [ Var Nilai ]"
+heroku_9 : "{0} telah berjaya dikemas kini"
+heroku_10 : "{0} telah berjaya ditambah"
+heroku_11 : "Hanya untuk Apl Heroku"
+heroku_12 : "Menyemak Penggunaan Heroku. Sila Tunggu"
+heroku_13 : "Menyemak kemas kini yang tersedia..."
+heroku_14 : " Ralat Perintah Git "
+heroku_15 : " Repositori Git Tidak Sah "
+
+# Mod bot peribadi
+pbot_1 : "**Penggunaan:**\n/beri kuasa [CHAT_ID]"
+pbot_2 : "**Penggunaan:**\n/batalkan kebenaran [CHAT_ID]"
+pbot_3 : "Menambahkan sembang yang diberikan ke senarai yang dibenarkan"
+pbot_4 : "Mengalih keluar sembang yang diberikan daripada senarai rasmi"
+pbot_5 : "Sembang sudah ada dalam senarai yang dibenarkan"
+pbot_6 : "Tiada sembang sedemikian dalam senarai rasmi"
+pbot_7 : "Gagal mengesahkan chat_id .\n\ nPastikan angka dan dalam format yang betul. Jangan gunakan nama pengguna atau pautan sembang."
+pbot_8 : "Sila tunggu.... Mengambil Sembang Rasmi."
+pbot_9 : "**<b>Sembang Diambil:</b>**\n\n"
+pbot_10 : "Sembang Peribadi"
+pbot_11 : "Tiada Sembang Rasmi ditemui"
+pbot_12 : "Mod Bot Peribadi dilumpuhkan.\n\ nUntuk menggunakan bot anda sebagai bot peribadi, pastikan anda menetapkan **PRIVATE_BOT_MODE** = **True**"
+pbot_13 : "\n**<b>Sembang Tidak Diambil:</b>**\n\n"
+
+
+#gbbanned _
+gban_1 : "Kau nak gban sendiri ke? Bodoh!"
+gban_2 : "Perlukah saya menyekat diri saya sendiri? Hihihi "
+gban_3 : "Adakah anda mahu menyekat pengguna sudo ?"
+gban_4 : "{0} sudah ** gban ** daripada bot."
+gban_5 : "** Mulakan Larangan Global pada {0}**\n\ nMasa Jangkaan : {1}."
+gban_6 : "**Berjaya Dilarang **\n\ nDilarang **{0}** daripada **{1}** sembang ."
+gban_7 : "{0} belum ** gban ** belum lagi dari bot."
+gban_8 : "**Nyahsekat {0}**\n\ nMasa Jangkaan : {1}."
+gban_9 : "** Dibatalkan Berjaya**\n\ nDibatalkan **{0}** dalam **{1}** sembang ."
+gban_10 : "Tiada Pengguna Diharam Ditemui . "
+gban_11 : "Sila tunggu sebentar.. Mendapatkan semula senarai pengguna Gbanned "
+
+#Cadangan _
+sug_0 : " ❓ **Tahukah anda?**\n\n ✅ "
+sug_1 : "Anda boleh memainkan muzik dalam dua **mod carian** iaitu Mod Langsung dan Mod Sebaris.\n\ nTukar mod melalui / mod main "
+sug_2 : "Anda boleh memainkan muzik dalam dua **jenis main balik** iaitu Mod Semua Orang dan Mod Pentadbir.\n\ nTukar mod melalui / mod main "
+sug_3 : "Anda juga boleh memainkan muzik pada ** saluran **.\n\ nSet channel_id melalui / channelplay dan main melalui / cplay "
+sug_4 : "Bukan Pentadbir juga boleh menggunakan arahan pentadbir dengan menambahkannya pada ** SENARAI PENGGUNA AUTH **. \ nTambah mana- mana pengguna ke senarai pengesahan dengan / auth , alih keluar dengan / unauth dan semak pengguna pengesahan melalui / authusers "
+sug_5 : "Bot mempunyai ciri yang dipanggil ** Mod Bersih **.\ nIni mengalih keluar mesej bot selepas 5 Minit dan memastikan sembang anda kekal bersih.\n\ nDayakan atau lumpuhkan mod bersih daripada / tetapan [__Didayakan secara lalai __]"
+Spotify ** lagu dan senarai main .\n\ nMulakan main sekarang dengan / mainkan [ pautan Spotify ]"
+sug_7 : "Anda juga boleh memainkan lagu dan senarai main **Apple Music**.\n\ nMulakan main sekarang dengan / mainkan [Apple Link]"
+sug_8 : "Anda juga boleh memainkan ** Resso Music ** trek dan senarai main.\n\ nMula main sekarang dengan / mainkan [ Resso Link]"
+sug_9 : "Anda juga boleh memainkan lagu dan senarai main ** Bunyi Cloud **.\n\ nMulakan main sekarang dengan / mainkan [ SoundCloud Link]"
+sug_10 : "Anda boleh memainkan **Video** dalam sembang suara melalui / vplay [Nama Video] atau / mainkan -v [Nama Video]"
+sug_11 : "Anda boleh menetapkan **Kualiti Audio** sembang suara kepada Rendah, Sederhana atau Tinggi.\n\ nTetapkan kualiti melalui / tetapan "
+sug_12 : "Anda boleh menetapkan **Kualiti Video** sembang suara kepada Rendah, Sederhana atau Tinggi.\n\ nTetapkan kualiti melalui / tetapan "
+sug_13 : "Anda boleh menyemak **Statistik** anda dalam bot seperti 10 Lagu Teratas Dimainkan.\n\ nDapatkan Statistik: / gstats "
+sug_14 : "Anda boleh menyemak **Statistik Kumpulan** dalam bot seperti 10 Lagu Teratas Dimainkan.\n\ nDapatkan Statistik: / gstats "
+sug_15 : "Anda boleh menyemak bot **Global Statistics** seperti 10 pengguna teratas, 10 sembang teratas, 10 lagu teratas dll.\n\ nSemak Statistik: / gstats "
+sug_16 : "Kini anda boleh meredamkan muzik yang dimainkan dalam sembang suara.\n\ nArahan : /mute"
+sug_17 : "Kini anda boleh mendayakan dan melumpuhkan muzik yang dimainkan dalam sembang suara.\n\ nArahan : /mute dan / unmute "
+sug_18 : "Anda juga boleh mencari lirik muzik dengan kami..\n\ nArahan : / lirik [Nama Muzik]"
+sug_19 : "Anda boleh memuat turun muzik atau video daripada bot melalui Youtube.\n\ nArahan : / lagu [Nama Muzik]"
+sug_20 : "Anda boleh mendapatkan senarai lengkap arahan saya yang telah saya terima.\n\ nCommand : / help "
+sug_21 : "Bot mempunyai pilihan senarai main sebelah pelayan.\n\ nAnda boleh menambah muzik dalam senarai main anda dan memainkan semuanya bersama-sama melalui / mainkan "
+sug_22 : "Anda kini boleh merombak muzik beratur dalam bot.\n\ nCommand : / shuffle "
+sug_23 : "Anda boleh menyemak baris gilir muzik .\n\ nCommand : / queue "
+sug_24 : "Anda boleh menyemak pemilik saya dan pengguna sudo yang menguruskan saya.\n\ nCommand : / sudolist "
+sug_25 : "Bot mempunyai ciri yang dipanggil ** Perintah Mod Padam **. Bot ini akan memadamkan arahan yang dilaksanakan secara automatik.\n\ nDayakan atau lumpuhkan deletemode daripada / tetapan [__Didayakan secara lalai __]"
+sug_26 : "Anda boleh menukar bahasa bot kepada bahasa yang tersedia untuk pemahaman yang lebih mudah.\n\ nCommand : /language"
+sug_27 : "Bot mempunyai ciri yang dipanggil ** Force Main **.\n\n** Paksa Main ** menghentikan trek yang sedang dimainkan dalam sembang suara dan mula memainkan trek yang dicari serta-merta tanpa mengganggu/mengosongkan baris gilir.\n\ nArahan : /paksa main"
